@@ -1,7 +1,5 @@
 # Julia Workshop - HPC.NRW
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/crstnbr/JuliaNRW21/master)
-
 An online (due to COVID-19) Julia workshop for the [HPC.NRW Kompetenznetwerk](https://hpc.dh.nrw) that takes place in March 2021.
 
 Teacher: [Carsten Bauer](http://github.com/crstnbr), [University of Cologne](https://www.portal.uni-koeln.de/index.php?id=9441&L=1)
