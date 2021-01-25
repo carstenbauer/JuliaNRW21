@@ -1,4 +1,4 @@
-# JuliaNRW21
+# Julia Workshop - HPC.NRW
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/crstnbr/JuliaNRW21/master)
 
