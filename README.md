@@ -2,7 +2,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/crstnbr/JuliaNRW21/master)
 
-A Julia workshop that takes place in March 2021 ~~at the [University of Cologne](https://www.portal.uni-koeln.de/index.php?id=9441&L=1)~~ online (due to COVID-19). Only elementary Julia knowledge is required to follow along.
+An online (due to COVID-19) Julia workshop that takes place in March 2021.
 
 Teacher: [Carsten Bauer](http://github.com/crstnbr), [University of Cologne](https://www.portal.uni-koeln.de/index.php?id=9441&L=1)
 
