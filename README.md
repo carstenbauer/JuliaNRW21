@@ -4,8 +4,6 @@ An online Julia workshop for the [HPC.NRW Kompetenznetwerk](https://hpc.dh.nrw) 
 
 Registration: https://events.uni-paderborn.de/e/julia2021
 
-Teacher: [Carsten Bauer](http://github.com/crstnbr), [University of Cologne](https://www.portal.uni-koeln.de/index.php?id=9441&L=1)
-
 In case of questions, feel free to [contact me](http://github.com/crstnbr).
 
 ## Try it out live! (Beta)
