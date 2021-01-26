@@ -2,8 +2,6 @@
 
 An online Julia workshop for the [HPC.NRW Kompetenznetwerk](https://hpc.dh.nrw) which takes place in March 2021.
 
-Registration: https://events.uni-paderborn.de/e/julia2021
-
 In case of questions, feel free to [contact me](http://github.com/crstnbr).
 
 ## Try it out live! (Beta)
