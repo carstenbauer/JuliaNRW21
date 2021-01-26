@@ -1,6 +1,6 @@
 # Julia Workshop - HPC.NRW
 
-An online (due to COVID-19) Julia workshop for the [HPC.NRW Kompetenznetwerk](https://hpc.dh.nrw) that takes place in March 2021.
+An online Julia workshop for the [HPC.NRW Kompetenznetwerk](https://hpc.dh.nrw) which takes place in March 2021.
 
 Registration: https://events.uni-paderborn.de/e/julia2021
 
