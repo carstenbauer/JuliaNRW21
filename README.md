@@ -16,4 +16,4 @@ Apart from Julia itself, the easiest way to get set up for the workshop is to us
 
 ## Poster
 
-<a href="https://github.com/crstnbr/JuliaCologne21/raw/master/orga/poster/JuliaNRW21_poster.pdf"><img src="https://github.com/crstnbr/JuliaNRW21/raw/master/orga/poster/JuliaNRW21_poster.png" width=400px></a>
+<a href="https://github.com/crstnbr/JuliaNRW21/raw/master/orga/poster/JuliaNRW21_poster.pdf"><img src="https://github.com/crstnbr/JuliaNRW21/raw/master/orga/poster/JuliaNRW21_poster.png" width=400px></a>
