@@ -1,5 +1,7 @@
 # Julia Workshop - HPC.NRW
 
+<a href="https://github.com/crstnbr/JuliaNRW21/raw/master/orga/poster/JuliaNRW21_poster.pdf"><img align="right" src="https://github.com/crstnbr/JuliaNRW21/raw/master/orga/poster/JuliaNRW21_poster.png" width=200px></a>
+
 An online Julia workshop for the [HPC.NRW Kompetenznetwerk](https://hpc.dh.nrw) which takes place in March 2021.
 
 In case of questions, feel free to [contact me](http://github.com/crstnbr).
@@ -14,6 +16,6 @@ The workshop uses the latest Julia version 1.5. Go to [julialang.org](https://ju
 
 Apart from Julia itself, the easiest way to get set up for the workshop is to use the [WorkshopWizard](https://crstnbr.github.io/WorkshopWizard.jl/dev/). Just follow the [usage instructions](https://crstnbr.github.io/WorkshopWizard.jl/dev/usage/#Getting-the-latest-workshop-1).
 
-## Poster
+## Tentative schedule
 
-<a href="https://github.com/crstnbr/JuliaNRW21/raw/master/orga/poster/JuliaNRW21_poster.pdf"><img src="https://github.com/crstnbr/JuliaNRW21/raw/master/orga/poster/JuliaNRW21_poster.png" width=400px></a>
+<a href="https://github.com/crstnbr/JuliaNRW21/raw/master/orga/schedule/schedule.pdf"><img src="https://github.com/crstnbr/JuliaNRW21/raw/master/orga/schedule/schedule.png" width=850px></a>
