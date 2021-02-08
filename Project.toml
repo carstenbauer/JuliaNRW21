@@ -1,4 +1,4 @@
-name = "JuliaCologne21"
+name = "JuliaNRW21"
 authors = ["Carsten Bauer <crstnbr@gmail.com>"]
 
 [deps]
@@ -9,6 +9,7 @@ CpuId = "adafc99b-e345-5852-983c-f28acb93d879"
 DistributedArrays = "aaf54ef3-cdf8-58ed-94cc-d582ad619b94"
 Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
 Hwloc = "0e44f5e4-bd66-52a0-8798-143a42290a1d"
+IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
 Interact = "c601a237-2ae4-5e1e-952c-7a85b0c7eef1"
 Measurements = "eff96d63-e80a-5855-80a2-b1b0885c5ab7"
 OrdinaryDiffEq = "1dea7af3-3e70-54e6-95c3-0bf5283fa5ed"
