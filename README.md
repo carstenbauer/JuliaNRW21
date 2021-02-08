@@ -12,9 +12,17 @@ Click on the [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.o
 
 ## Preparing for the workshop
 
-The workshop uses the latest Julia version 1.5. Go to [julialang.org](https://julialang.org/downloads/) and install the latest binaries for your operating system.
+The workshop uses the latest **Julia version 1.5**. Go to [julialang.org](https://julialang.org/downloads/) and install the appropriate binaries for your operating system.
 
-Apart from Julia itself, the easiest way to get set up for the workshop is to use the [WorkshopWizard](https://crstnbr.github.io/WorkshopWizard.jl/dev/). Just follow the [usage instructions](https://crstnbr.github.io/WorkshopWizard.jl/dev/usage/#Getting-the-latest-workshop-1).
+Apart from Julia itself, you will need a [Jupyter](https://jupyter.org) notebook installation and a bunch of Julia packages (dependencies). The sipmlest way to get set up for the workshop is to use the [WorkshopWizard](https://crstnbr.github.io/WorkshopWizard.jl/dev/). Just follow the [usage instructions](https://crstnbr.github.io/WorkshopWizard.jl/dev/usage/#Getting-the-latest-workshop-1) and you're good to go.
+
+Alternatively, you can use the following terminal commands to install the dependencies.
+
+```bash
+git clone https://github.com/crstnbr/JuliaNRW21
+cd JuliaNRW21
+julia install.jl
+```
 
 ## Tentative schedule
 
