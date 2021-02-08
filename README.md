@@ -18,4 +18,4 @@ Apart from Julia itself, the easiest way to get set up for the workshop is to us
 
 ## Tentative schedule
 
-<a href="https://github.com/crstnbr/JuliaNRW21/raw/master/orga/schedule/schedule.pdf"><img src="https://github.com/crstnbr/JuliaNRW21/raw/master/orga/schedule/schedule.png" width=850px></a>
+<a href="https://github.com/crstnbr/JuliaNRW21/raw/master/orga/schedule/schedule.pdf"><img src="https://github.com/crstnbr/JuliaNRW21/raw/master/orga/schedule/schedule.jpeg" width=850px></a>
