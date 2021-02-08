@@ -182,6 +182,12 @@ version = "1.0.0"
 deps = ["Printf"]
 uuid = "ade2ca70-3891-5945-98fb-dc099432e06a"
 
+[[DefaultApplication]]
+deps = ["Test"]
+git-tree-sha1 = "a51d16b075dc52e22cde13b4a6e0ba4ba86649ee"
+uuid = "3f0dd361-4fe0-5fc6-8523-80b14ec94d85"
+version = "0.1.3"
+
 [[DelimitedFiles]]
 deps = ["Mmap"]
 uuid = "8bb1440f-4735-579b-a4ab-409b98df4dab"
@@ -409,6 +415,12 @@ deps = ["Dates", "Mmap", "Parsers", "Unicode"]
 git-tree-sha1 = "81690084b6198a2e1da36fcfda16eeca9f9f24e4"
 uuid = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
 version = "0.21.1"
+
+[[JSON3]]
+deps = ["Dates", "Mmap", "Parsers", "StructTypes", "UUIDs"]
+git-tree-sha1 = "961ef1c3e5c8a595d5bec270a9007429ef12ed10"
+uuid = "0f8b85d8-7281-11e9-16c2-39a750bddbf1"
+version = "1.5.1"
 
 [[JpegTurbo_jll]]
 deps = ["Artifacts", "JLLWrappers", "Libdl", "Pkg"]
@@ -882,6 +894,12 @@ git-tree-sha1 = "8099ed9fb90b6e754d6ba8c6ed8670f010eadca0"
 uuid = "09ab397b-f2b6-538f-b94a-2f83cf4a842a"
 version = "0.4.4"
 
+[[StructTypes]]
+deps = ["Dates", "UUIDs"]
+git-tree-sha1 = "65a43f5218197bc7091b76bc273a5e323a1d7b0d"
+uuid = "856f2bd8-1eba-4b0a-8007-ebc267875bd4"
+version = "1.2.3"
+
 [[SuiteSparse]]
 deps = ["Libdl", "LinearAlgebra", "Serialization", "SparseArrays"]
 uuid = "4607b0f0-06f3-5cda-b6b1-a6196a1729e9"
@@ -971,6 +989,12 @@ deps = ["Artifacts", "JLLWrappers", "Libdl", "Pkg", "Wayland_jll"]
 git-tree-sha1 = "2839f1c1296940218e35df0bbb220f2a79686670"
 uuid = "2381bf8a-dfd0-557d-9999-79630e7b1b91"
 version = "1.18.0+4"
+
+[[XKCD]]
+deps = ["DefaultApplication", "HTTP", "JSON3"]
+git-tree-sha1 = "cc010ae6cfd0c73136a657922a60f4217bcb22d9"
+uuid = "4bc7fa8b-4ef2-4643-8c8b-cef036f85839"
+version = "1.0.0"
 
 [[XML2_jll]]
 deps = ["Artifacts", "JLLWrappers", "Libdl", "Libiconv_jll", "Pkg", "Zlib_jll"]
