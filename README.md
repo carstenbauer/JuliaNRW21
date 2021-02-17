@@ -2,7 +2,7 @@
 
 <a href="https://github.com/crstnbr/JuliaNRW21/raw/master/orga/poster/JuliaNRW21_poster.pdf"><img align="right" src="https://github.com/crstnbr/JuliaNRW21/raw/master/orga/poster/JuliaNRW21_poster.png" width=200px></a>
 
-An online Julia workshop for the [HPC.NRW Kompetenznetwerk](https://hpc.dh.nrw) which takes place in March 2021.
+An online Julia workshop for the [HPC.NRW Kompetenznetwerk](https://hpc.dh.nrw) which takes place in March 2021 (1st - 4th).
 
 In case of questions, feel free to [contact me](http://github.com/crstnbr).
 
@@ -26,4 +26,4 @@ julia install.jl
 
 ## Tentative schedule
 
-<a href="https://github.com/crstnbr/JuliaNRW21/raw/master/orga/schedule/schedule.pdf"><img src="https://github.com/crstnbr/JuliaNRW21/raw/master/orga/schedule/schedule.jpeg" width=850px></a>
+<a href="https://github.com/crstnbr/JuliaNRW21/raw/master/orga/schedule/schedule.pdf"><img src="https://github.com/crstnbr/JuliaNRW21/raw/master/orga/schedule/schedule.jpeg" width=720px></a>
