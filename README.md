@@ -6,10 +6,6 @@ An online Julia workshop for the [HPC.NRW Kompetenznetwerk](https://hpc.dh.nrw) 
 
 In case of questions, feel free to [contact me](http://github.com/crstnbr).
 
-## Try it out live! (Beta)
-
-Click on the [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/crstnbr/JuliaNRW21/master) badge to dive right into the workshop materials.
-
 ## Preparing for the workshop
 
 ### Software and workshop materials
@@ -41,3 +37,7 @@ To get the most out of the workshop, make yourself familiar with the basic Julia
 ## Tentative schedule
 
 <a href="https://github.com/crstnbr/JuliaNRW21/raw/master/orga/schedule/schedule.pdf"><img src="https://github.com/crstnbr/JuliaNRW21/raw/master/orga/schedule/schedule.jpeg" width=720px></a>
+
+## Try it out live! (Beta)
+
+Click on the [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/crstnbr/JuliaNRW21/master) badge to dive right into the workshop materials.
