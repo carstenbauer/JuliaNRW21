@@ -13,6 +13,12 @@ Click on the [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.o
 ## Preparing for the workshop
 
 ### Software and workshop materials
+
+What you need (in short):
+  * [Julia 1.5](https://julialang.org/downloads/)
+  * [Jupyter](https://jupyter.org) + [IJulia.jl](https://github.com/JuliaLang/IJulia.jl)
+  * The workshop materials, i.e. this GitHub repository
+
 The workshop uses the latest **Julia version 1.5**. Go to [julialang.org](https://julialang.org/downloads/) and install the appropriate binaries for your operating system.
 
 Apart from Julia itself, you will need a [Jupyter](https://jupyter.org) notebook installation and a bunch of Julia packages (dependencies). The simplest way to install these dependencies is to use the [WorkshopWizard](https://crstnbr.github.io/WorkshopWizard.jl/dev/). Just follow the [usage instructions](https://crstnbr.github.io/WorkshopWizard.jl/dev/usage/#Getting-the-latest-workshop-1).
