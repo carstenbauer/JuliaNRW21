@@ -26,6 +26,8 @@ julia install.jl
 
 If you are facing any issues you can check out [this troubleshooting section](https://crstnbr.github.io/WorkshopWizard.jl/dev/troubleshooting/). Otherwise I will try to help you get ready for the workshop on Monday!
 
+**Note:** I might still change some of the workshop materials before Monday. To be on the safe side, make sure you update your local instance of the repository on Monday. (You can always delete your local copy and redownload/`git pull`.)
+
 ## Tentative schedule
 
 <a href="https://github.com/crstnbr/JuliaNRW21/raw/master/orga/schedule/schedule.pdf"><img src="https://github.com/crstnbr/JuliaNRW21/raw/master/orga/schedule/schedule.jpeg" width=720px></a>
