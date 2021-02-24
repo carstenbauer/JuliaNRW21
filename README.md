@@ -21,7 +21,7 @@ What you need (in short):
 
 The workshop uses the latest **Julia version 1.5**. Go to [julialang.org](https://julialang.org/downloads/) and install the appropriate binaries for your operating system.
 
-Apart from Julia itself, you will need a [Jupyter](https://jupyter.org) notebook installation and a bunch of Julia packages (dependencies). The simplest way to install these dependencies is to use the [WorkshopWizard](https://crstnbr.github.io/WorkshopWizard.jl/dev/). Just follow the [usage instructions](https://crstnbr.github.io/WorkshopWizard.jl/dev/usage/#Getting-the-latest-workshop-1).
+Apart from Julia itself, you will need a [Jupyter](https://jupyter.org) notebook installation and a bunch of Julia packages (dependencies). The simplest way to install both is to use the [WorkshopWizard](https://crstnbr.github.io/WorkshopWizard.jl/dev/). Just follow the [usage instructions](https://crstnbr.github.io/WorkshopWizard.jl/dev/usage/#Getting-the-latest-workshop-1).
 
 Alternatively, you can use the following terminal commands to download the workshop materials and install the dependencies.
 
