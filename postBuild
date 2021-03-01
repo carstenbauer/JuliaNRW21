@@ -1,5 +1,0 @@
-#!/bin/bash
-
-set -ex
-
-julia -e "using WebIO; WebIO.install_jupyter_nbextension()"
