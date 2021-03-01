@@ -40,4 +40,4 @@ To get the most out of the workshop, make yourself familiar with the basic Julia
 
 ## Try it out live! (Beta)
 
-Click on the [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/crstnbr/JuliaNRW21/master) badge to dive right into the workshop materials.
+Click on the [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/crstnbr/julia-binder/master?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fcrstnbr%252FJuliaNRW21%26urlpath%3Dtree%252FJuliaNRW21%252F%26branch%3Dmaster) badge to dive right into the workshop materials.
